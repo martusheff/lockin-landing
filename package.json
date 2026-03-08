@@ -30,7 +30,10 @@
 	"devDependencies": {
 		"@types/react": "^19.2.13",
 		"@types/react-dom": "^19.2.3",
-		"wrangler": "4.56.0"
+		"wrangler": "4.71.0"
+	},
+	"overrides": {
+		"fontkitten": "1.0.0"
 	},
 	"engines": {
 		"node": ">=22"
