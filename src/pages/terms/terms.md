@@ -51,5 +51,5 @@ We may update these terms from time to time. Continued use of LockIn after updat
 
 If you have questions about these Terms of Service:
 
-- **Email:** support@lockin.app
+- **Email:** support@progressphototracker.com
 

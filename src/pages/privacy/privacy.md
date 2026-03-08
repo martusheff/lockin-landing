@@ -38,4 +38,4 @@ LockIn may use third-party analytics or crash reporting providers. Those provide
 
 If you have questions about this privacy policy:
 
-- **Email:** privacy@lockin.app
+- **Email:** support@progressphototracker.com
